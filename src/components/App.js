@@ -31,7 +31,9 @@ class App extends React.Component {
   render() {
     return (
       <div className='ui container'>
-        <SearchBar onFormSubmit={this.onTermSubmit} />
+        <div style={{ marginTop: '10px', marginBottom: '10px' }}>
+          <SearchBar onFormSubmit={this.onTermSubmit} />
+        </div>
         <div className='ui grid'>
           <div className='ui row'>
             <div className='eleven wide column'>
