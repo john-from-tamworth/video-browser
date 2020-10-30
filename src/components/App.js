@@ -1,3 +1,4 @@
+import './App.css';
 import React from 'react';
 import SearchBar from './SearchBar';
 import youtube from '../apis/youtube';
