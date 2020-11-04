@@ -1,6 +1,6 @@
 ## Overview
 
-This is a simple video browser application, a basic Youtube clone of sorts.  The Youtube API is used when a search term is entered.  The results are then displayed in a similar fasion to Youtube.
+This is a simple video browser application, a basic Youtube clone of sorts.  The Youtube API is used when a search term is entered.  The results are then displayed in a similar fashion to Youtube.
 
 This was created to practice using class based components.  Whilst Hooks are the way forward creating new apps, in my opinion its important to understand how class components work to fully understand hooks.  This will also ensure I can work with older codebases that have not used Hooks.
 
