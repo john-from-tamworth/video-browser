@@ -3,7 +3,7 @@ import React from 'react';
 
 const VideoItem = ({ video, onVideoSelect }) => {
   return (
-    <div onClick={() => onVideoSelect(video)} className='video-item item'>
+    <div onClick={() => onVideoSelect(video)} className='video-item item grow'>
       <img
         alt={video.snippet.title}
         className='ui image'
