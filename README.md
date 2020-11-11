@@ -1,6 +1,6 @@
 ## Overview
 
-Click [here](https://master.dj459d2swuxx7.amplifyapp.com/)to view the App deplyed ar **AWS**.
+Click [here](https://master.dj459d2swuxx7.amplifyapp.com/) to view the App deplyed ar **AWS**.
 
 Alternatively click [here](https://video-browser-35e50.web.app/) to view to App via **Firebase**.
 
