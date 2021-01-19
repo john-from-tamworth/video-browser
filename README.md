@@ -1,10 +1,14 @@
 ## Overview
 
-Click [here](https://video-browser-35e50.web.app/) to view to app
+Click [here](https://master.dj459d2swuxx7.amplifyapp.com/) to view the App deployed ar **AWS**.
+
+Alternatively click [here](https://video-browser-35e50.web.app/) to view to App via **Firebase**.
 
 This is a simple video browser application, a basic Youtube clone of sorts.  The Youtube API is used when a search term is entered.  The results are then displayed in a similar fashion to Youtube.
 
 This was created to practice using class based components.  Whilst Hooks are the way forward creating new apps, in my opinion its important to understand how class components work to fully understand hooks.  This will also ensure I can work with older codebases that have not used Hooks.
+
+Its deploued at both AWS and Firebase as Im learning both services.
 
 
 # Getting Started with Create React App
